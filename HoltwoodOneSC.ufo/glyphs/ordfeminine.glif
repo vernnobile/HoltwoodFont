@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordfeminine" format="1">
+  <advance width="1283"/>
+  <unicode hex="00aa"/>
+  <outline>
+    <contour>
+      <point x="627" y="1535" type="curve" smooth="yes"/>
+      <point x="835.913" y="1535"/>
+      <point x="1033.37" y="1487.46"/>
+      <point x="1208" y="1430" type="curve" smooth="no"/>
+      <point x="1208" y="544" type="line" smooth="no"/>
+      <point x="766" y="544" type="line" smooth="no"/>
+      <point x="766" y="640" type="line" smooth="no"/>
+      <point x="675.855" y="571.648"/>
+      <point x="582.532" y="512"/>
+      <point x="457" y="512" type="curve" smooth="yes"/>
+      <point x="203.204" y="512"/>
+      <point x="56" y="730.743"/>
+      <point x="56" y="980" type="curve" smooth="yes"/>
+      <point x="56" y="1341.25"/>
+      <point x="268.091" y="1535"/>
+    </contour>
+    <contour>
+      <point x="697" y="1310" type="curve" smooth="yes"/>
+      <point x="556.465" y="1310"/>
+      <point x="525" y="1196.31"/>
+      <point x="525" y="1039" type="curve" smooth="yes"/>
+      <point x="525" y="857.949"/>
+      <point x="587.653" y="796"/>
+      <point x="766" y="796" type="curve" smooth="no"/>
+      <point x="766" y="1303" type="line" smooth="no"/>
+      <point x="746.667" y="1307.67"/>
+      <point x="723.667" y="1310"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>1310</integer>
+	    <key>width</key>	    <integer>225</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>56</integer>
+	    <key>width</key>
+	    <integer>469</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>766</integer>
+	    <key>width</key>
+	    <integer>442</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

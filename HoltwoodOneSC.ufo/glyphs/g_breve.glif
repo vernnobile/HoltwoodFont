@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gbreve" format="1">
+  <advance width="1658"/>
+  <unicode hex="011e"/>
+  <outline>
+    <component base="breve" xOffset="415" yOffset="146"/>
+    <component base="G"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-18</integer>
+	    <key>width</key>	    <integer>471</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>590</integer>
+	    <key>width</key>	    <integer>274</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1113</integer>
+	    <key>width</key>	    <integer>446</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1681</integer>
+	    <key>width</key>	    <integer>293</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>67</integer>
+	    <key>width</key>
+	    <integer>641</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1156</integer>
+	    <key>width</key>
+	    <integer>430</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

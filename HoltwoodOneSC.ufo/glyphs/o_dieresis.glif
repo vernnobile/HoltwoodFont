@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Odieresis" format="1">
+  <advance width="1928"/>
+  <unicode hex="00d6"/>
+  <outline>
+    <component base="dieresis" xOffset="284" yOffset="17"/>
+    <component base="O"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-18</integer>
+	    <key>width</key>	    <integer>483</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1102</integer>
+	    <key>width</key>	    <integer>457</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1681</integer>
+	    <key>width</key>	    <integer>384</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>68</integer>
+	    <key>width</key>
+	    <integer>640</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>373</integer>
+	    <key>width</key>
+	    <integer>425</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1117</integer>
+	    <key>width</key>
+	    <integer>425</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1220</integer>
+	    <key>width</key>
+	    <integer>640</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

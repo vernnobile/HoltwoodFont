@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uring" format="1">
+  <advance width="1824"/>
+  <unicode hex="016f"/>
+  <outline>
+    <component base="ring" xOffset="440" yOffset="32"/>
+    <component base="u"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-18</integer>
+	    <key>width</key>	    <integer>446</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1014</integer>
+	    <key>width</key>	    <integer>394</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1568</integer>
+	    <key>width</key>	    <integer>188</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>2148</integer>
+	    <key>width</key>	    <integer>196</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>171</integer>
+	    <key>width</key>
+	    <integer>541</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>488</integer>
+	    <key>width</key>
+	    <integer>229</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1063</integer>
+	    <key>width</key>
+	    <integer>229</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1193</integer>
+	    <key>width</key>
+	    <integer>452</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
